@@ -16,7 +16,7 @@
     "@testing-library/user-event": "7.1.2",
     "google-map-react": "1.1.7",
     "i18next": "19.4.4",
-    "lodash": "4.17.20",
+    "lodash": "4.17.21",
     "prop-types": "15.7.2",
     "qs": "6.9.4",
     "react": "16.13.1",
